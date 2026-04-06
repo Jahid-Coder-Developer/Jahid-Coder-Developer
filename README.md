@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_incoming&w=740&q=80)]
+[![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_incoming&w=740&q=80)](https://github.com/Jahid-Coder-Developer)
 <h1 align="center">Hi 👋, I'm Jahid</h1>
 <h3 align="center">Aspiring Software Developer | Competitive Programming Enthusiast | Mastering C++</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlwODZqNTl4NGZxYzhxMGk5OXZ3bXgyazQ5dW9zYnQzdjNjMXBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif">
@@ -21,7 +21,7 @@
 <a href="https://codeforces.com/profile/jahid_iban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jahid_iban" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdjahidiban06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdjahidiban06" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jahid4wc8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jahid4wc8s" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/wNzsaKFB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wNzsaKFB" height="30" width="40" /></a>
+<a href="https://discord.gg/wNzsaKFB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/wNzsaKFB" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
